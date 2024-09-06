@@ -1,0 +1,72 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url(assets/mike-yukhtenko-a2kD4b0KK4s-unsplash.jpg) no-repeat;
+    background-size: cover;
+}
+.container {
+    background: linear-gradient(#000000a2, #00000000) no-repeat;;
+    align-items: center;
+    margin: 0px 0px;
+    font-family: "Major Mono Display", monospace;
+}
+header {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 55px;
+}
+.header h1 {
+    font-size: 75px;
+    color: white;
+    margin-bottom: 40px;
+}
+.header hr {
+    margin: 0 auto;
+    width: 85%;
+}
+.header h2 {
+    margin-top: 40px;
+    font-size: 50px;
+    color: white;
+}
+main {
+    display: flex;
+}
+.main h1 {
+    font-size: 40px;
+}
+.main .first {
+    padding-top: 30px;
+}
+.main .second {
+    padding-top: 30px;
+}
+main .main {
+    width: 900px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 150px;
+    background: linear-gradient(#001723, #001a27);
+    box-shadow: 15px 15px 8px rgba(0, 0, 0, 0.6);
+    color: white;
+    font-family: "Lato", system-ui;
+    text-align: center;
+    font-size: 27px;
+    padding-top: 30px;
+    border-radius: 100px;
+}
+main .main1 {
+    width: 500px;
+    height: 430px;
+    margin-right: 200px;
+    margin-top: 99px;
+    background: linear-gradient(#001723, #001a27);
+    box-shadow: 15px 15px 8px rgba(0, 0, 0, 0.6);
+    border-radius: 50px;
+    text-align: center;
+}
