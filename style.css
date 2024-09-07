@@ -59,6 +59,11 @@ main .main {
     font-size: 27px;
     padding-top: 30px;
     border-radius: 100px;
+    transition: all 0.3s;
+    
+}
+main .main:hover {
+    transform: translateY(-20px);
 }
 main .main1 {
     width: 500px;
